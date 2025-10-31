@@ -1,2 +1,2 @@
-# -ProyectoParteIIIRodriguez.ipynb
+# -ProyectoParteIIIRodriguez
 “Entrega final del curso de Data Science – análisis de rendimiento estudiantil”
